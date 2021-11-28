@@ -23,6 +23,6 @@ ch.setFormatter(formatter)
 logger.addHandler(fh)
 logger.addHandler(ch)
 
-logger.info('Mon message info')
+logger.info('Mon message information')
 logger.debug('Mon message debug')
 logger.warning('Mon message warning')
